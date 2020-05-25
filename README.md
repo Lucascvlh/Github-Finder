@@ -9,8 +9,9 @@ Based on my little knowledge in development, I was able to develop only those fe
 **Requerements**
   - Mozilla or Google Chrome or Safari(current version).
   
-**how to run the application**
+**How to run the application**
   - copy the index.html and main.js files to a local folder or run the $ git clone https://github.com/Lucascvlh/Github-Finder command on your terminal or cmd.
+  - NOTE: the application has a limitation of 60 requests per IP, each letter being typed a request.
 
 **Development programs**
   - APP - Visual Studio Code - Version 1.39.1.
