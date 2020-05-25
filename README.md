@@ -13,7 +13,8 @@ Based on my little knowledge in development, I was able to develop only those fe
   - copy the index.html and main.js files to a local folder or run the $ git clone https://github.com/Lucascvlh/Github-Finder command on your terminal or cmd.
 
 **Development programs**
-  - APP - Visual Studio Code - Version 1.39.1
+  - APP - Visual Studio Code - Version 1.39.1.
+  - Framework CSS - Bootstrap v4.5.
   - API - Api used for application development: https://api.github.com/.
   - DER - Software developed for the development of the relationship entity diagram: http://draw.io.
   
